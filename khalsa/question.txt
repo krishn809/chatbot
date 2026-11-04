@@ -1,0 +1,151 @@
+================================================================================
+          AI CHATBOT - OFFLINE KNOWLEDGE BASE QUESTIONS & PROMPTS
+================================================================================
+The following questions and topic queries are pre-programmed into the offline
+knowledge engine and will be answered immediately without requiring any internet
+connection or API keys.
+
+--------------------------------------------------------------------------------
+1. ARTIFICIAL INTELLIGENCE (AI) FOUNDATIONS
+--------------------------------------------------------------------------------
+- What is Artificial Intelligence?
+- Define AI
+- What are the basics of AI?
+- Explain AI with an analogy
+- What is the difference between Narrow AI, General AI (AGI), and Super AI (ASI)?
+- What is Narrow AI?
+- What is AGI (Artificial General Intelligence)?
+- Is ChatGPT an example of Narrow AI or General AI?
+
+--------------------------------------------------------------------------------
+2. MACHINE LEARNING (ML)
+--------------------------------------------------------------------------------
+- What is Machine Learning?
+- Explain ML
+- How does Machine Learning work?
+- What are the 3 main types of Machine Learning?
+- What is Supervised Learning?
+- What is Unsupervised Learning?
+- What is Reinforcement Learning?
+- What is the difference between Supervised and Unsupervised Learning?
+- If you train a model on photos tagged 'cat' or 'dog', is that supervised or unsupervised learning?
+- If you forecast stock prices using historical price data, is that supervised or unsupervised?
+
+--------------------------------------------------------------------------------
+3. DEEP LEARNING (DL)
+--------------------------------------------------------------------------------
+- What is Deep Learning?
+- What is DL?
+- How does Deep Learning differ from traditional Machine Learning?
+- What is an Artificial Neural Network?
+- What is a deep neural network?
+- Why did Deep Learning explode in popularity?
+- Why are GPUs important for Deep Learning?
+
+--------------------------------------------------------------------------------
+4. K-NEAREST NEIGHBORS (KNN) ALGORITHM
+--------------------------------------------------------------------------------
+- What is KNN?
+- Explain K-Nearest Neighbors algorithm
+- How does the KNN algorithm work?
+- What is the analogy for KNN?
+- Can KNN be used for classification and regression?
+- What distance metrics are used in KNN (Euclidean, Manhattan)?
+- What happens if K is too small or too large in KNN?
+- Why is KNN called a Lazy Learner algorithm?
+
+--------------------------------------------------------------------------------
+5. NEURAL NETWORKS & LEARNING MECHANICS
+--------------------------------------------------------------------------------
+- What is a Neural Network?
+- Explain artificial neurons and perceptrons
+- How do artificial neural networks learn?
+- What are input, hidden, and output layers?
+- What is an activation function (ReLU, GELU, Sigmoid)?
+- Why do neural networks need non-linear activation functions?
+- What is Backpropagation?
+- What is Gradient Descent?
+- What is the role of weights and biases in a neuron?
+
+--------------------------------------------------------------------------------
+6. TURING TEST & MODEL TUNING
+--------------------------------------------------------------------------------
+- What is the Turing Test?
+- Who created the Turing Test?
+- Explain the Tuning Test
+- What is model tuning?
+- What is Hyperparameter Tuning?
+- What is Fine-Tuning in LLMs?
+- What is the difference between a model parameter and a hyperparameter?
+- How does Grid Search and Bayesian Optimization work?
+
+--------------------------------------------------------------------------------
+7. HISTORY & TIMELINE OF AI
+--------------------------------------------------------------------------------
+- What is the history of AI?
+- Explain the timeline of Artificial Intelligence
+- When was AI founded?
+- What was the Dartmouth Conference of 1956?
+- What are the AI Winters?
+- When did Deep Blue beat Garry Kasparov?
+- What was AlexNet and the 2012 ImageNet moment?
+- When did the Generative AI and Transformer era begin?
+
+--------------------------------------------------------------------------------
+8. FOUNDERS & PIONEERS OF ARTIFICIAL INTELLIGENCE
+--------------------------------------------------------------------------------
+- Who is the founder of AI?
+- Who is the father of AI?
+- Who coined the term Artificial Intelligence?
+- Who was Alan Turing and what was his contribution to AI?
+- Who was John McCarthy?
+- Who was Marvin Minsky?
+- Who created the Logic Theorist in 1956?
+- Who are the modern Godfathers of Deep Learning (Hint: Geoffrey Hinton, Yann LeCun, Yoshua Bengio)?
+
+--------------------------------------------------------------------------------
+9. HOW AI HELPS HUMANITY & MODERN SOCIETY
+--------------------------------------------------------------------------------
+- How does AI help humanity?
+- What are the benefits of AI?
+- Why is AI useful?
+- How is AI used in healthcare and medicine?
+- How does AlphaFold help biology and drug discovery?
+- How does AI help with climate change and agriculture?
+- How is AI used in transportation and self-driving vehicles?
+- How is AI transforming education and personalized tutoring?
+
+--------------------------------------------------------------------------------
+10. LARGE LANGUAGE MODELS (LLMS) & TRANSFORMERS
+--------------------------------------------------------------------------------
+- What is an LLM (Large Language Model)?
+- How do Large Language Models work?
+- How does ChatGPT work?
+- What is the Transformer architecture?
+- What is the Attention Mechanism and Self-Attention?
+- What is Tokenization?
+- What are Vector Embeddings?
+- What is RLHF (Reinforcement Learning from Human Feedback)?
+- What landmark 2017 paper introduced Transformers?
+
+--------------------------------------------------------------------------------
+11. OVERFITTING VS. UNDERFITTING
+--------------------------------------------------------------------------------
+- What is Overfitting?
+- What is Underfitting?
+- What is the Bias-Variance tradeoff?
+- How do you prevent Overfitting in Machine Learning?
+- What is Regularization (L1 Lasso, L2 Ridge)?
+- What is Dropout in neural networks?
+- What is K-Fold Cross-Validation?
+
+--------------------------------------------------------------------------------
+12. INTERACTIVE AI QUIZ & ANSWERS
+--------------------------------------------------------------------------------
+- Give me an AI quiz
+- Test my AI knowledge
+- Take an AI quiz
+- Which algorithm is an example of Unsupervised Learning?
+- Answers to Quiz: Type "B" or "K-Means" to receive verified answer feedback and explanations.
+================================================================================
+
